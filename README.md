@@ -2,7 +2,7 @@
 
 Hello!
 
-I'm currently a Junior at the California University of Pennsylvania (CalU), studying Computer Science. 
+I am currently a Junior at the California University of Pennsylvania (CalU), studying Computer Science. 
 My interests primarily lie in theoretical computer science, high performance computing, and the bridge between mathematics and computing. 
 For the past 8 years I have been running my family's small diner, while teaching myself as much as I can about software development.
 I decided to continue my formal education at CalU in Computer Science, and expect to graduate Spring 2023.
