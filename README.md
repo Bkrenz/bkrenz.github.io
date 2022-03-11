@@ -15,6 +15,15 @@ I utilize GitHub as a way to collaborate, demonstrate, and sync my work with my 
 Always looking for work and interesting project collaborations!
 
 
+## Projects
+
+### [Minimum Dominating Sets](https://github.com/Bkrenz/calu-csc360/tree/main/Assignments/Minimum%20Dominating%20Set)
+This was an exploration into complexity theory.
+The problem is a formulation of the Vertex Cover problem, of which an optimal solution can only be found by checking all sets of nodes which would be O(2^n).
+This is meant to be a demonstration of how finding an optimal solution to a given problem can cause running time to grow exponentially fast.
+Experiments with this implementation showed a 40+ hour runtime with a graph of 37 nodes with random connections.
+
+
 ## Coursework, Spring 2022
 
 - [Calculus 3](https://github.com/Bkrenz/uwp-2022-spring/tree/main/MAT%20381)
